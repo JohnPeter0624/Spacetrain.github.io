@@ -1,2 +1,2 @@
 # Spacetrain.github.io
-git pull https://spacetrain.com/
+git fetch https://spacetrain.com/
